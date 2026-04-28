@@ -2,7 +2,7 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name : KUSUMBA ABHU</li>
+  <li> Name : KUSUMBA ABHI</li>
   <li> Roll Number :160124737045</li>
   <li> Branch: IT1</li>
 </ul>
